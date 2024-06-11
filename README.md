@@ -6,6 +6,8 @@ Project maintained by [@dbacinski](http://twitter.com/dbacinski) (Dariusz Baciń
 
 Inspired by [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) by [@nsmeme](http://twitter.com/nsmeme) (Oktawian Chojnacki)
 
+Remember that each pattern has its own trade-offs. And you need to pay attention more to why you're choosing a certain pattern than to how to implement it.
+
 ## Table of Contents
 
 * [Behavioral Patterns](#behavioral)
